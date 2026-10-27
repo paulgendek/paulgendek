@@ -14,4 +14,4 @@ Outside my full-time role, I run [Signal & Habit](https://signalandhabit.com/), 
 
 I bring problem definition, product direction, architecture, UX refinement, hands-on testing and release judgment. AI agents help with implementation and automated checks.
 
-[Portfolio and case studies](https://paulgendek.com/) · [LinkedIn](https://www.linkedin.com/in/paulgendek/) · [Technical writing](https://dev.to/paulgendek)
+[Portfolio and case studies](https://paulgendek.com/) · [LinkedIn](https://www.linkedin.com/in/paulgendek/) · [Technical writing](https://dev.to/paulgendek) · [Buy me a coffee](https://buymeacoffee.com/signalandhabit)
